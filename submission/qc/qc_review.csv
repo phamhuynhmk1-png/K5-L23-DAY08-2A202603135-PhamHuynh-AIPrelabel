@@ -1,0 +1,6 @@
+image,object_id,error_type,reviewer,note
+img_003.jpg,2,thua,PhamHuynh,"box truck không có vật (bẫy extra bị lọt khi review)"
+img_006.jpg,,khong,PhamHuynh,
+img_014.jpg,,khong,PhamHuynh,
+img_031.jpg,418,thua,PhamHuynh,"box bicycle thừa"
+img_035.jpg,,khong,PhamHuynh,

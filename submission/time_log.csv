@@ -1,1 +1,3 @@
 step,images,minutes,note
+gold_manual,4,20,"gán tay 4 ảnh gold trên CVAT server, không dùng AI; 53 box (đã xoá box < 20px theo 4.1.6)"
+batch_review,24,85,"duyệt 24 ảnh batch có pre-label + 12 bẫy trên CVAT server (checklist 4 bước); 492 đối tượng sau duyệt"
