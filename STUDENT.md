@@ -5,7 +5,7 @@
 - Lớp (L2 / L3 / khác): L2A
 - Tài khoản GitHub: phamhuynhmk1-png
 - Repo bài nộp (URL): https://github.com/phamhuynhmk1-png/K5-L23-DAY08-2A202603135-PhamHuynh-AIPrelabel
-- Commit chốt bài (hash): 893ed2a
+- Commit chốt bài (hash): b8c5acd
 - Máy: Windows 11, GPU NVIDIA RTX 3050 Laptop 4 GB, nhưng venv cài torch bản CPU (2.15.0+cpu) nên mọi model chạy trên CPU
 - CVAT (Docker): v2.82.0 (chạy trên server)
 
